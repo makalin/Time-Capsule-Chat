@@ -21,8 +21,8 @@ A React Native application that allows users to send and receive "time capsule" 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/time-capsule-chat.git
-   cd time-capsule-chat
+   git clone https://github.com/makalin/Time-Capsule-Chat.git
+   cd Time-Capsule-Chat
    ```
 
 2. Install dependencies:
